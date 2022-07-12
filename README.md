@@ -1,2 +1,2 @@
 # Social-media-API
-A social API suing Express, Mongodb &amp; Mongoose ODM
+A social API using Express, Mongodb &amp; Mongoose ODM
