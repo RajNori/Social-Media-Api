@@ -90,4 +90,4 @@ Can be used to test API end points for a social media project.
 > I would like to thank the team at Monash bootcamps, PluralSight and Coding Addict. [JohnSmilga](https://www.youtube.com/c/CodingAddict)
 
 # contact
-> Created by [@rajnori](https://rajnori.github.io/Portfolio-project/) - feel free to contact me by clicking on the link [@here](https://rajnori.github.io/Portfolio-project/)!
+> Created by [@rajnori](https://rajnori.github.io/Portfolio-project/) - feel free to contact me by clicking on the link [here](https://rajnori.github.io/Portfolio-project/)!
