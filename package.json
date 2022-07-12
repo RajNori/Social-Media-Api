@@ -2,7 +2,7 @@
   "name": "18-social-api",
   "version": "1.0.0",
   "private": true,
-  "description": "A social API suing Express, Mongodb &amp; Mongoose ODM",
+  "description": "A social API using Express, Mongodb &amp; Mongoose ODM",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

@@ -58,10 +58,36 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
    - & Format Timestamps
 # Database Schema
 
-![Schema-design](images/Schema.png)
+![Schema-design](./media/images/Schema.png)
 
 # Screenshots
-![Insomnia](images/test.png)
+![Insomnia](./media/images/UserAPI-screenshot.png)
+![Insomnia](./media/images/Thought-update.png)
 
+# video walkthrough
 
+[part-1](./media/video/Part1.mp4)
+[part-2](./media/video/Part2.mp4)
+[part-3](./media/video/Part3.mp4)
 
+> [youtube](https://youtu.be/mZUmA2XWqYU)
+# Setup
+
+> Download the code as a Zip file or clone the repo and run it on your local machine. 
+>Type npm start 
+
+# usage
+Can be used to test API end points for a social media project.
+
+# Project Status
+
+> Complete
+
+# Room for improvement
+> Can add a Front-end to make it a Full stack MERN application.
+# Acknowledgements
+
+> I would like to thank the team at Monash bootcamps, PluralSight and Coding Addict. [JohnSmilga](https://www.youtube.com/c/CodingAddict)
+
+# contact
+> Created by [@rajnori](https://rajnori.github.io/Portfolio-project/) - feel free to contact me by clicking on the link [@here](https://rajnori.github.io/Portfolio-project/)!

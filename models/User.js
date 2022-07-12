@@ -31,11 +31,9 @@ const UserSchema = new Schema({
         virtuals: true,
         getters: true,
     },
-    // prevents virtuals from creating duplicate of _id as `id`
     id: false
 });
 
-// get total count of friends 
 UserSchema.virtual('friendCount').get(function() {
     return this.friends.length;
 });
