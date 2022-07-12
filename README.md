@@ -87,7 +87,7 @@ Can be used to test API end points for a social media project.
 > Can add a Front-end to make it a Full stack MERN application.
 # Acknowledgements
 
-> I would like to thank the team at Monash bootcamps, PluralSight and Coding Addict. [JohnSmilga](https://www.youtube.com/c/CodingAddict)
+> I would like to thank the team at Monash bootcamp.
 
 # contact
 > Created by [@rajnori](https://rajnori.github.io/Portfolio-project/) - feel free to contact me by clicking on the link [here](https://rajnori.github.io/Portfolio-project/)!
